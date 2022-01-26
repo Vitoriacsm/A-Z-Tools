@@ -1,0 +1,1 @@
+Para usar a função "Correção do windows" é necessário executar o programa como administrador.

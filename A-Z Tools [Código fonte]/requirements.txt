@@ -1,0 +1,3 @@
+pip install requests
+pip install tkinter
+pip install pyqrcode
